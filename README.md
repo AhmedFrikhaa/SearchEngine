@@ -1,2 +1,1 @@
-# week 2 homework search bar/gif
- 
+Search bar working with Gify API . **link to the web site: ** https://ahmedfrikhaa.github.io/homework-onemonth/
